@@ -42,8 +42,7 @@ section{
   display: block;
 }
 body { 
-  color: #FF0000
-  #color: #404040;
+  color: #404040;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 14px;
   line-height: 1.4;
@@ -211,7 +210,7 @@ pre {
 <section class='container'>
 
         <hgroup>
-           <h1>Welcome to your CakePHP application on OpenShift</h1>
+           <h1 style="color:red;">Welcome to your CakePHP application on OpenShift</h1>
         </hgroup>
 
         <?= $this->fetch('content') ?>
