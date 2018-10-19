@@ -207,7 +207,6 @@ pre {
 
 </head>
 <body>
-#<body style="background-color:red;>
 <section class='container'>
 
         <hgroup>
