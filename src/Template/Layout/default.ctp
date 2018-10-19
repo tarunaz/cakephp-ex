@@ -41,8 +41,9 @@ hgroup,
 section{
   display: block;
 }
-body {
-  color: #404040;
+body { 
+  color: #FF0000
+  #color: #404040;
   font-family: "Helvetica Neue",Helvetica,"Liberation Sans",Arial,sans-serif;
   font-size: 14px;
   line-height: 1.4;
@@ -178,8 +179,7 @@ p + h2 {
   margin-top: 2em;
 }
 html {
-  background: #FF0000
-  #background: #f5f5f5;
+  background: #f5f5f5;
   height: 100%;
 }
 code {
